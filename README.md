@@ -39,5 +39,5 @@ Gracias a este challenge conseguí poner en práctica conceptos como:
 
 ## Agradecimientos
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Gon-Dev)
+- Frontend Mentor - [@Gon-Dev](https://www.frontendmentor.io/profile/Gon-Dev)
 - Wes Bos - [@wesbos](https://wesbos.com/)
